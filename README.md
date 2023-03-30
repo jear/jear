@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jear
 - 👀 I’m interested in hybrid and multi clouds services
-- 🌱 I’m currently learning something... and sharing it to someone else.
+- 🌱 I’m currently delivering value, or learning something... and peering with someone else.
 - 💞️ I’m looking to collaborate on open cloud
 - 📫 [How to reach me](https://www.linkedin.com/in/jerome-armand-746876/)
 
